@@ -3,11 +3,11 @@ There is qr scanner and qr genrator app created in android studio by java with b
 if you have any problem or any suggestions regarding the code feel free to ping me ar linkdin
 
 some basic things you can learn are
--custor dialog 
--sqlitedatabse 
--recyclerview
--scan QR codes
--Generate QR codes
+custor dialog 
+sqlitedatabse 
+recyclerview
+scan QR codes
+Generate QR codes
 
 linkdin - https://www.linkedin.com/in/harshit-singhal-14562622a/
 
