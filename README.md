@@ -1,6 +1,14 @@
 # qr-scanner-and-qr-generator-app
 There is qr scanner and qr genrator app created in android studio by java with basic UI hope it will help you
 if you have any problem or any suggestions regarding the code feel free to ping me ar linkdin
+
+some basic things you can learn are
+-custor dialog 
+-sqlitedatabse 
+-recyclerview
+-scan QR codes
+-Generate QR codes
+
 linkdin - https://www.linkedin.com/in/harshit-singhal-14562622a/
 
 ![app_screenshot_1](https://user-images.githubusercontent.com/98380911/157602155-73a155eb-32b9-4c21-9c2d-2e817654e5c4.jpg)
